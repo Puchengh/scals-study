@@ -18,8 +18,8 @@ object RichFile{
 //    println(content)
     //隐式的实现read方法（隐式的转换）
 
-      val path = "F:\\commonfriend.txt"
-      val content = path.read()
-      println(content)
+//      val path = "F:\\commonfriend.txt"
+//      val content = path.read()
+//      println(content)
   }
 }
